@@ -2,5 +2,8 @@
     "gitbook": ">=3.1",
 	"title": "Meteor 指南 English 文档中文注解版",
 	"description": "Meteor Guide 英文文档的中文注解版，记录所学到的东西，所遇到的问题。",
-    "plugins": ["theme-official@2.1.1", "-sharing", "-fontsettings"]
+    "plugins": [
+    	"-sharing", 
+    	"-fontsettings"
+    ]
 }
